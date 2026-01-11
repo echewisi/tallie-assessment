@@ -86,7 +86,7 @@ restaurant-reservation-api/
 1. **Clone the repository**
    ```bash
    git clone <repository-url>
-   cd restaurant-reservation-api
+   cd tallie-assessment
    ```
 
 2. **Install dependencies**
